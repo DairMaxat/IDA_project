@@ -1,6 +1,9 @@
-introproject.ipynb this is part i did in first 5 week
+introproject.ipynb this is part i did in first 5 week 
+
 introproject_part2.ipynb This is the second part for endterm
+
 By the final exam, I will have completed the entire analysis and written a conclusion. 
+
 # Introduction
 ### I don't know much about anime, but I really want to start watching. This analysis will introduce us to the genres of anime. It will help us choose the best way to start watching. 
 #### I have 2 datasets Anime.csv and Rating.csv
