@@ -1,6 +1,6 @@
-introproject.ipynb this is part i did in first 5 week 
+introproject.ipynb this is part i did in first 5 weeks
 
-introproject_part2.ipynb This is the second part for endterm
+introproject_part2.ipynb This is the second part for Endterm
 
 By the final exam, I will have completed the entire analysis and written a conclusion. 
 
